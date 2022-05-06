@@ -1,0 +1,14 @@
+version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
+options: "b6dbc9f1f2090993cd3343fc6201ce6bfe2420969121a28b6bc94b04496468f1"
+build_start_time: [1650980383, 676323890]
+build_end_time: [1650980385, 949411869]
+inputs:
+  "/home/michelle-feng/Experiences/ISP2022/Sources/ScenesShell/Background.swift": !private [1650896018, 883580446]
+  "/home/michelle-feng/Experiences/ISP2022/Sources/ScenesShell/BackgroundLayer.swift": !private [1650896018, 887580394]
+  "/home/michelle-feng/Experiences/ISP2022/Sources/ScenesShell/Board.swift": !private [1650896018, 891580104]
+  "/home/michelle-feng/Experiences/ISP2022/Sources/ScenesShell/ForegroundLayer.swift": [1650896018, 895579814]
+  "/home/michelle-feng/Experiences/ISP2022/Sources/ScenesShell/InteractionLayer.swift": [1650896018, 899579763]
+  "/home/michelle-feng/Experiences/ISP2022/Sources/ScenesShell/MainScene.swift": !private [1650896018, 903579711]
+  "/home/michelle-feng/Experiences/ISP2022/Sources/ScenesShell/Score.swift": !private [1650896018, 939578056]
+  "/home/michelle-feng/Experiences/ISP2022/Sources/ScenesShell/ShellDirector.swift": [1650896018, 911579132]
+  "/home/michelle-feng/Experiences/ISP2022/Sources/ScenesShell/main.swift": [1650896018, 915579080]
