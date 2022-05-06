@@ -5,7 +5,6 @@ import Foundation
 class Board: RenderableEntity {
     var board: Rectangle 
     var height = 50
-
     let minion : Image
     
     init(rect: Rect){
